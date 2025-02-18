@@ -1,0 +1,1 @@
+Plugin allows users to go invisible for a set period of time using a molotov or inc grenade. These change be changed to whatever weapons you want, just look in the config file thats created on first load.
