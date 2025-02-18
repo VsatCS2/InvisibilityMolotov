@@ -1,4 +1,4 @@
-Plugin allows users to go invisible for a set period of time using a molotov or inc grenade. These change be changed to whatever weapons you want, just look in the config file thats created on first load. Config messages need to be updated, but everything else works. Make sure gloves are set to default gloves otherwise they will be visible.
+Plugin allows users to go invisible for a set period of time using a molotov or inc grenade. These can be changed to whatever weapons you want, just look in the config file thats created on first load. Config messages need to be updated, but everything else works. Make sure gloves are set to default gloves otherwise they will be visible.
 
 Example of config file:
 
